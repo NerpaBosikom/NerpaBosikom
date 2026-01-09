@@ -1,39 +1,39 @@
-# 👋 Привет! Я Света
+# 👋 Привет! Я Света (NerpaBosikom)
 
-Я начинающий фронтенд-разработчик. Сейчас учусь создавать классные веб‑приложения, осваивая **JavaScript** и **React**.
+Я — **Frontend Developer Intern**. Сейчас я нахожусь на стажировке, где участвую в разработке реального и сложного продукта — платформы для создания онлайн-курсов (LMS). 
 
-Люблю чистый код, адаптивную вёрстку и удобные для всех интерфейсы. Это только начало моего пути, но я уже получаю удовольствие от каждого нового проекта.
-
-📚 В процессе обучения:
-- HTML, CSS, адаптивная вёрстка
-- JavaScript (Vanilla, ES6)
-- React, React Router, MobX
-- Работа в команде и GitHub
-
-🛠 Мои проекты:  
-[Cheffest (лендинг)](https://nerpabosikom.github.io/ProjectOne/)  
-[Anna Virsen (многостраничный сайт)](https://nerpabosikom.github.io/ProjectTwo/)
-
-📬 Связаться со мной:  
-[Telegram @nerpa_bosikom](https://t.me/nerpa_bosikom)  
-✉️ bosekom@bk.ru  
+Я прошла путь от оператора 1С и руководителя в рознице до разработчика. Мой прошлый опыт помогает мне быстро разбираться в логике данных и эффективно работать в команде.
 
 ---
 
-_Спасибо, что заглянул(а)! Следи за моим развитием — будет интересно 🌱_
+### 🛠 Мой стек технологий:
 
+*   **Core:** JavaScript (ES6+), **TypeScript**
+*   **Frameworks:** **React, Next.js**
+*   **State Management:** **Redux Toolkit (RTK Query)**, MobX
+*   **Layout:** HTML5, CSS3, адаптивная и кроссбраузерная вёрстка
+*   **Tools:** Git, GitHub, Figma, ESLint
 
-<!--
-**NerpaBosikom/NerpaBosikom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📚 Сейчас я активно развиваюсь в:
+*   Углублении знаний **Next.js** и оптимизации производительности приложений.
+*   Ежедневном изучении **английского языка** (уже 190+ дней ударного режима в Duolingo! 🦉).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Мои проекты:
+
+*   **LMS Platform (Constructor)** — участие в разработке конструктора уроков и тестов (Next.js, TS, RTK Query).
+*   **[Cheffest (адаптивный лендинг)](https://nerpabosikom.github.io/ProjectOne/)**
+*   **[Anna Virsen (многостраничный сайт)](https://nerpabosikom.github.io/ProjectTwo/)**
+
+---
+
+### 📫 Связаться со мной:
+
+*   **Telegram:** [@nerpa_bosikom](https://t.me/nerpa_bosikom)
+*   **Email:** bosekom@bk.ru
+
+---
+_«Люблю чистый код, адаптивную вёрстку и удобные для всех интерфейсы. Верю, что внимание к деталям и дисциплина — залог крутого результата.»_
