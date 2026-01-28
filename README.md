@@ -27,6 +27,9 @@
 *   **LMS Platform (Constructor)** — участие в разработке коммерческой платформы (под NDA). 
 Реализовала сложную логику позиционирования элементов урока и синхронизацию состояния (Redux Toolkit), 
 решив критические баги отображения и вставки блоков.
+* [ProductsHub](https://nerpabosikom.github.io/app-products/) — SPA-приложение для управления каталогом товаров. 
+  **Stack:** React, TypeScript, Zustand (State Management), Tailwind CSS, Framer Motion.
+  **Key Features:** Поиск, фильтрация по категориям, система "Избранное", адаптив и работа с внешним API (DummyJSON).
 *   **[Cheffest (адаптивный лендинг)](https://nerpabosikom.github.io/ProjectOne/)**
 *   **[Anna Virsen (многостраничный сайт)](https://nerpabosikom.github.io/ProjectTwo/)**
 
