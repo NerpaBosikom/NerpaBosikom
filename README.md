@@ -33,8 +33,10 @@
 * [User Dashboard](https://user-dashboard-nerpa-s-projects.vercel.app/) — панель управления пользователями с динамическими маршрутами. 
   **Stack:** Next.js, TypeScript, CSS Modules. 
   **Key Features:** Работа с динамическим `[id]`, асинхронные запросы (API), адаптивная вёрстка карточек.
-*   **[Cheffest (адаптивный лендинг)](https://nerpabosikom.github.io/ProjectOne/)**
-*   **[Anna Virsen (многостраничный сайт)](https://nerpabosikom.github.io/ProjectTwo/)**
+* [Cheffest](https://nerpabosikom.github.io/ProjectOne/) — адаптивный лендинг для ресторанного сервиса. 
+  **Focus:** Идеальная верстка (Pixel Perfect), Mobile-first подход и семантическая разметка. Демонстрация работы с современным CSS и адаптивностью.
+* [Anna Virsen](https://nerpabosikom.github.io/ProjectTwo/) — многостраничный сайт-визитка для частного специалиста. 
+  **Focus:** Работа со структурой проекта, навигация между страницами, соблюдение единого стиля и чистота HTML/CSS кода.
 
 ---
 
