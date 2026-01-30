@@ -1,3 +1,4 @@
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Sveta%20Tomzova&fontSize=70&fontColor=ffffff&animation=fadeIn)
 # 👋 Привет! Я Света (NerpaBosikom)
 
 Я — **Frontend Developer Intern**. Сейчас я нахожусь на стажировке, где участвую в разработке реального и сложного продукта — платформы для создания онлайн-курсов (LMS). 
