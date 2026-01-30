@@ -1,4 +1,7 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Sveta%20Tomzova&fontSize=70&fontColor=ffffff&animation=fadeIn)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Sveta%20Tomzova&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%" />
+</p>
+
 # 👋 Привет! Я Света (NerpaBosikom)
 
 Я — **Frontend Developer Intern**. Сейчас я нахожусь на стажировке, где участвую в разработке реального и сложного продукта — платформы для создания онлайн-курсов (LMS). 
@@ -39,27 +42,28 @@
 ---
 
 ### 📚 Сейчас я активно развиваюсь в:
-*   Углублении знаний **Next.js** и оптимизации производительности приложений.
-*   Ежедневном изучении **английского языка** (уже 210+ дней ударного режима в Duolingo! 🦉).
+* ✨ Углублении знаний **Next.js** и оптимизации производительности приложений.
+* 🦉 Ежедневном изучении **английского языка** (уже 215+ дней ударного режима в Duolingo!).
 
 ---
 
-### 🛠 Проекты, которыми я горжусь:
+### 🚀 Проекты, которыми я горжусь:
 
-#### 🟢 Коммерческий и командный опыт
-* **LMS Platform (Constructor)** — *Commercial Project (NDA)*.
+#### 🏆 Коммерческий и командный опыт
+*  **LMS Platform (Constructor)** — *Commercial Project (NDA)*.
   Разработка конструктора онлайн-курсов.
   **Key Task:** Сложная логика позиционирования элементов и State Management (Redux Toolkit).
-* **FS Platform** — *Team Project*.
+*  **FS Platform** — *Team Project*.
   Платформа для мероприятий.
   **Key Task:** Рефакторинг UI-компонентов, создание адаптивных фильтров и сеток.
 
-#### 🔵 Индивидуальные проекты
-* [Anna Virsen](https://nerpabosikom.github.io/ProjectTwo/) — *Real Client Project*. Многостраничный сайт-визитка. Focus: Pixel Perfect & Clean Code.
-* [ProductsHub](https://nerpabosikom.github.io/app-products/) — SPA-каталог (React + Zustand + Tailwind). Поиск, фильтры, Framer Motion.
-* [User Dashboard](https://user-dashboard-nerpa-s-projects.vercel.app/) — Next.js приложение с динамической маршрутизацией.
-* [Cheffest](https://nerpabosikom.github.io/ProjectOne/) — адаптивный лендинг для ресторанного сервиса. 
+#### 🌟 Индивидуальные проекты
+*  [Anna Virsen](https://nerpabosikom.github.io/ProjectTwo/) — *Real Client Project*. Многостраничный сайт-визитка. Focus: Pixel Perfect & Clean Code.
+*  [ProductsHub](https://nerpabosikom.github.io/app-products/) — SPA-каталог (React + Zustand + Tailwind). Поиск, фильтры, Framer Motion.
+*  [User Dashboard](https://user-dashboard-nerpa-s-projects.vercel.app/) — Next.js приложение с динамической маршрутизацией.
+*  [Cheffest](https://nerpabosikom.github.io/ProjectOne/) — адаптивный лендинг для ресторанного сервиса. 
   **Focus:** Pixel Perfect & Mobile-first.
+
 ---
 
 ### 📫 Связаться со мной:
