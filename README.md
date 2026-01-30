@@ -22,22 +22,22 @@
 
 ---
 
-### 🛠 Мои проекты:
+### 🛠 Проекты, которыми я горжусь:
 
-*   **LMS Platform (Constructor)** — участие в разработке коммерческой платформы (под NDA). 
-Реализовала сложную логику позиционирования элементов урока и синхронизацию состояния (Redux Toolkit), 
-решив критические баги отображения и вставки блоков.
-* [ProductsHub](https://nerpabosikom.github.io/app-products/) — SPA-приложение для управления каталогом товаров. 
-  **Stack:** React, TypeScript, Zustand (State Management), Tailwind CSS, Framer Motion.
-  **Key Features:** Поиск, фильтрация по категориям, система "Избранное", адаптив и работа с внешним API (DummyJSON).
-* [User Dashboard](https://user-dashboard-nerpa-s-projects.vercel.app/) — панель управления пользователями с динамическими маршрутами. 
-  **Stack:** Next.js, TypeScript, CSS Modules. 
-  **Key Features:** Работа с динамическим `[id]`, асинхронные запросы (API), адаптивная вёрстка карточек.
+#### 🟢 Коммерческий и командный опыт
+* **LMS Platform (Constructor)** — *Commercial Project (NDA)*.
+  Разработка конструктора онлайн-курсов.
+  **Key Task:** Сложная логика позиционирования элементов и State Management (Redux Toolkit).
+* **FS Platform** — *Team Project*.
+  Платформа для мероприятий.
+  **Key Task:** Рефакторинг UI-компонентов, создание адаптивных фильтров и сеток.
+
+#### 🔵 Индивидуальные проекты
+* [Anna Virsen](https://nerpabosikom.github.io/ProjectTwo/) — *Real Client Project*. Многостраничный сайт-визитка. Focus: Pixel Perfect & Clean Code.
+* [ProductsHub](https://nerpabosikom.github.io/app-products/) — SPA-каталог (React + Zustand + Tailwind). Поиск, фильтры, Framer Motion.
+* [User Dashboard](https://user-dashboard-nerpa-s-projects.vercel.app/) — Next.js приложение с динамической маршрутизацией.
 * [Cheffest](https://nerpabosikom.github.io/ProjectOne/) — адаптивный лендинг для ресторанного сервиса. 
-  **Focus:** Идеальная верстка (Pixel Perfect), Mobile-first подход и семантическая разметка. Демонстрация работы с современным CSS и адаптивностью.
-* [Anna Virsen](https://nerpabosikom.github.io/ProjectTwo/) — многостраничный сайт-визитка для частного специалиста. Проект выполнен для реального заказчика по индивидуальным требованиям.
-  **Focus:** Работа со структурой проекта, навигация между страницами, соблюдение единого стиля и чистота HTML/CSS кода.
-
+  **Focus:** Pixel Perfect & Mobile-first.
 ---
 
 ### 📫 Связаться со мной:
