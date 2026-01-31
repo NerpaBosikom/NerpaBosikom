@@ -68,8 +68,9 @@
 
 ### 📫 Связаться со мной:
 
-*   **Telegram:** [@nerpa_bosikom](https://t.me/nerpa_bosikom)
-*   **Email:** bosekom@bk.ru
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/svetlana-tomzova/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nerpa_bosikom)
+![Email](https://img.shields.io/badge/Email-bosekom@bk.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ---
 _«Люблю чистый код, адаптивную вёрстку и удобные для всех интерфейсы. Верю, что внимание к деталям и дисциплина — залог крутого результата.»_
